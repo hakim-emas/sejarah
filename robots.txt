@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hakim-emas.github.io/sejarah/Legenda-Ragnarok-:-Ketika-Takdir-,-Kehancuran-,-dan-Kejayaan-Bertemu!-Hakim4d.html/sitemap.xml
